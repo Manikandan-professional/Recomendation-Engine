@@ -1,5 +1,7 @@
 # Recommendation-Engine
 A recommendation engine is a type of data filtering tool using machine learning algorithms to recommend the most relevant items to a particular user or customer. It operates on the principle of finding patterns in consumer behavior data, which can be collected implicitly or explicitly.
+
+
 **1. Content-based filtering**
 Content-based filtering is based on a single user’s interactions and preference. Recommendations are based on the metadata collected from a user’s history and interactions. For example, recommendations will be based on looking at established patterns in a user’s choice or behaviours. Returning information such as products or services will relate to your likes or views. With an approach like this, the more information that the user provides, the higher the accuracy.
 
